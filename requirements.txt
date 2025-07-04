@@ -1,0 +1,14 @@
+ipykernel
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+langchain-groq
+python-dotenv
+faiss-cpu
+torch
+sentence-transformers
+arxiv
+wikipedia
+streamlit
+duckduckgo-search
